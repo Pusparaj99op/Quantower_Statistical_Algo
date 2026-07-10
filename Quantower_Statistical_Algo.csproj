@@ -10,7 +10,7 @@
     <RootNamespace>Quantower_Statistical_Algo</RootNamespace>
     <StartAction>Program</StartAction>
     <StartProgram>C:\Quantower\TradingPlatform\v1.146.14\Console.StarterNew.exe</StartProgram>
-    <StartArguments>--address 127.0.0.1 --port 59143</StartArguments>
+    <StartArguments>--address 127.0.0.1 --port 64453</StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <OutputPath>C:\Quantower\TradingPlatform\v1.146.14\..\..\Settings\Scripts\Strategies\Quantower_Statistical_Algo</OutputPath>

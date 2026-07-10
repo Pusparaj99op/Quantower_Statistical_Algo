@@ -1,0 +1,23 @@
+# Visual Studio Build Folders
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.slnx.sqlite
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+
+# Gemini / Claude specific temporary files
+.claude/sessions/**
+.claude/completions/**
+*.log
